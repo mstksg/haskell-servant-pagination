@@ -95,7 +95,7 @@
 module Servant.Pagination
   (
   -- * Types
-  Ranges
+  Ranges(..)
   , Range(..)
   , RangeOrder(..)
   , AcceptRanges (..)
